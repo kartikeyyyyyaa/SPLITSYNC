@@ -6,7 +6,7 @@ import { collection, onSnapshot, addDoc, updateDoc, deleteDoc, doc } from 'fireb
 
 // --- REAL LLM CATEGORIZATION ENGINE (GEMINI API) ---
 // 👉 PASTE YOUR GEMINI API KEY HERE 👈
-const GEMINI_API_KEY = "AIzaSyAhxwn0KVpnr_5kAmNZnyXN-X-QFnnGtNs";
+const GEMINI_API_KEY = "PASTE_YOUR_GEMINI_KEY_HERE";
 
 const analyzeExpenseWithAI = async (title) => {
   const text = title.toLowerCase().trim();
