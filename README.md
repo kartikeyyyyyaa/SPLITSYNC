@@ -1,7 +1,6 @@
 # 🚀 SplitSync: AI-Powered Financial Orchestration 
 
 **Developed by:** Kartikeya Shukla  
-**Registration Number:** 25BCE10732  
 **Project Context:** Neev AI Internship Assessment (April 2026)
 
 ---
